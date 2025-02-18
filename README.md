@@ -2,7 +2,7 @@
 
 ## Table of content
 * Overview
-* Classofication algorithm covered
+* Classification algorithm covered
 * Dataset
 * Evaluation Metric
 * Contribution
